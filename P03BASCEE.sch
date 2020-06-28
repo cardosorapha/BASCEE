@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title "BASCEE "
 Date "2020-06-28"
 Rev "1"
@@ -102,7 +102,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf" H 6750 4100 50 
 	1    0    0    -1  
 $EndComp
 $Sheet
-S 8200 4050 850  1200
+S 8000 3850 850  1200
 U 5F03AF31
 F0 "Connectors" 50
 F1 "Connectors.sch" 50

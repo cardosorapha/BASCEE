@@ -101,4 +101,10 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf" H 6750 4100 50 
 	1    6750 4100
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 8200 4050 850  1200
+U 5F03AF31
+F0 "Connectors" 50
+F1 "Connectors.sch" 50
+$EndSheet
 $EndSCHEMATC
