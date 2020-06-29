@@ -597,8 +597,6 @@ Wire Notes Line
 Wire Notes Line
 	1400 3650 4150 3650
 Wire Notes Line
-	4950 5850 6750 5850
-Wire Notes Line
 	6750 5850 6750 7600
 Wire Notes Line
 	6750 7600 4950 7600
@@ -620,4 +618,60 @@ Text Notes 5950 1700 2    50   ~ 0
 N2 - ATmega 328 with oscilator and battery
 Text Notes 5600 5850 2    50   ~ 0
 N4 - Connectors
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F1118A8
+P 3800 6300
+F 0 "H1" H 3900 6346 50  0000 L CNN
+F 1 "MountingHole" H 3900 6255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 3800 6300 50  0001 C CNN
+F 3 "~" H 3800 6300 50  0001 C CNN
+	1    3800 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F111EAB
+P 3800 6550
+F 0 "H2" H 3900 6596 50  0000 L CNN
+F 1 "MountingHole" H 3900 6505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 3800 6550 50  0001 C CNN
+F 3 "~" H 3800 6550 50  0001 C CNN
+	1    3800 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5F11244C
+P 3800 6800
+F 0 "H3" H 3900 6846 50  0000 L CNN
+F 1 "MountingHole" H 3900 6755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 3800 6800 50  0001 C CNN
+F 3 "~" H 3800 6800 50  0001 C CNN
+	1    3800 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5F11266E
+P 3800 7050
+F 0 "H4" H 3900 7096 50  0000 L CNN
+F 1 "MountingHole" H 3900 7005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 3800 7050 50  0001 C CNN
+F 3 "~" H 3800 7050 50  0001 C CNN
+	1    3800 7050
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	4950 5850 6750 5850
+Wire Notes Line
+	3500 7600 4750 7600
+Wire Notes Line
+	4750 7600 4750 5850
+Wire Notes Line
+	4750 5850 3500 5850
+Wire Notes Line
+	3500 5850 3500 7600
+Text Notes 3500 5850 0    50   ~ 0
+N0 - Mounting Holes
 $EndSCHEMATC
