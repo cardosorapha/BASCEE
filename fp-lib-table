@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name P03BASCEE)(type KiCad)(uri ${KIPRJMOD}/P03BASCEE.pretty)(options "")(descr ""))
+)
