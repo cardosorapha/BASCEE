@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 8)
     (tracks 0)
     (zones 0)
     (modules 21)
@@ -396,7 +396,7 @@
     (tags capacitor)
     (path /5F032422)
     (attr smd)
-    (fp_text reference C3 (at -2.5885 -0.381 180) (layer F.SilkS)
+    (fp_text reference C3 (at -0.127 -1.651 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 10uF (at 0 1.65) (layer F.Fab)
@@ -1078,5 +1078,14 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_arc (start 155.448 92.964) (end 156.464 92.964) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 155.448 124.968) (end 155.448 125.984) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 120.396 124.968) (end 119.38 124.968) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 120.396 92.964) (end 120.396 91.948) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 119.38 124.968) (end 119.38 92.964) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 155.448 125.984) (end 120.396 125.984) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 156.464 92.964) (end 156.464 124.968) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 120.396 91.948) (end 155.448 91.948) (layer Edge.Cuts) (width 0.05))
 
 )
