@@ -103,4 +103,12 @@ Text HLabel 4900 3750 0    50   Input ~ 0
 VCC
 Text HLabel 6300 2100 0    50   BiDi ~ 0
 SDA
+Text Notes 4800 1800 0    50   ~ 0
+N6 - Serial Connector
+Text Notes 6300 1800 0    50   ~ 0
+N5 - I2C Connector
+Text Notes 4750 2850 0    50   ~ 0
+N7 - GPIO Connector
+Text Notes 6300 3150 0    50   ~ 0
+N8 - ICSP
 $EndSCHEMATC
