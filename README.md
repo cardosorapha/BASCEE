@@ -14,7 +14,8 @@ O arquivo "P03BASCEE.sch" contém o esquemático principal com uma página hier�
 
 Os esquemáticos de componentes utilizados no projeto estão contidos em "P03BASCEE-cache.lib", que pode ser carregado em qualquer instância de KiCAD sem que hajam esquemáticos nas bibliotecas globais ([como instalar bibliotecas não oficiais](https://kicad-pcb.org/libraries/third_party/)).
 
-TODO: arquivos com footprints em biblioteca local
+Os footprints de componentes utilizados no projeto estão contidos em "P03BASCEE.pretty", que pode ser carregado em qualquer instância de KiCAD sem que hajam footprints nas bibliotecas globais ([como instalar bibliotecas não oficiais](https://kicad-pcb.org/libraries/third_party/)).
+
 
 ## Roteamento
 
