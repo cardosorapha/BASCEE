@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
-Title "BASCEE "
+Title "BACEE "
 Date "2020-06-28"
 Rev "1"
 Comp "UFS"
