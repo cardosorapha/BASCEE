@@ -2,6 +2,8 @@
 
 Este é um projeto de clone de Arduino utilizando o ATMega328P com duas memórias EEPROM e Calendário. O módulo disponibiliza saídas digitais, portas de comunicação I2C e serial, além de pinos para programação do microcontrolador. 
 
+<img src="/imagens/BASCEE.png" alt="Frente"/>
+
 ## Conexões
 
 TODO: Colocar imagem do esquemático com breve descrição.
